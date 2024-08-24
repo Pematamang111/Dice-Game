@@ -1,2 +1,2 @@
 alert('Hello')
-document.querySelector('h2').addEventListener()
+const titleEl = document.querySelector('h1')
